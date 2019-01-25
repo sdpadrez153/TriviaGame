@@ -4,7 +4,6 @@ $(document).on('click', '#start', function () {
 
 
 
-
 var myQuestions = [{
     question: "1 . What Superhero does Tony Stark Turn into?",
     answers: ["Wizard Guy", "Wolverine", "Iron Man", "Barney"],
