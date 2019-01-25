@@ -1,0 +1,75 @@
+body{
+	text-align: center;
+}
+
+html, body{
+  height:100%;
+}
+
+#wrapper{
+  padding: 5% 0;
+  background-color:darkgray;
+  width:1280px;
+  margin:10% auto;
+  box-sizing: border-box;
+  min-height: 10%;
+  opacity: 0.8;
+}
+
+#trivia{
+  position: relative;
+  top:20%;
+}
+
+button{
+  display:block;
+  width:400px;
+  height:100px;
+  margin: 10px auto 0 auto;
+  border:none;
+  cursor: pointer;
+  background:transparent;
+  font-size: 42px;;
+}
+
+
+h1{
+  font-family: verdana;
+  font-size: 6.5em;
+  margin-bottom: 50px;
+  font-weight: bold;
+  color: black;
+}
+
+h2{
+  font-size: 35px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  color: darkred;
+}
+
+h3{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+h4{
+    font-size: 30px;
+    margin: center;
+  }
+
+#start{
+  margin-top: 10%;
+  border:2px solid blue;
+  background: lightslategray;
+}
+
+#quiz-area h2{
+  margin-top: 150px;
+}
+
+input{
+
+
+}
+
